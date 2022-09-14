@@ -1,0 +1,369 @@
+自制,#genre#
+武林外传,http://txtest-xp2p.p2p.huya.com/src/1099531752788-1099531752788-86436268371607552-2199063629032-10057-A-0-1.xs
+周星驰1,http://txtest-xp2p.p2p.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.xs
+周星驰2,http://112.74.200.9:88/tv000000/m3u8.php?/migu/623338112
+沈腾,http://txtest-xp2p.p2p.huya.com/src/1524418085-1524418085-6547325820505948160-3048959626-10057-A-0-1.xs
+贝爷影厅经典科幻动作灾难巨兽,http://maomao.kandiantv.cn/douyu1.php?id=252802#http://epg.112114.xyz/douyu/252802
+贝爷MAX厅科幻动作经典喜剧,http://epg.112114.xyz/douyu/4332
+纪晓岚1,http://txtest-xp2p.p2p.huya.com/src/1394565204-1394565204-5989611943319568384-2789253864-10057-A-0-1.xs
+情满四合院,http://txtest-xp2p.p2p.huya.com/src/1394575549-1394575549-5989656374756245504-2789274554-10057-A-0-1.xs
+
+斗鱼,#genre#
+四大名著（原版),http://akm-tct.douyucdn.cn/live/1046540r8UIq8tJd_900.flv?uuid=
+四大名著（原版),http://tc-tct.douyucdn2.cn/dyliveflv3/1046540r8UIq8tJd.flv?wsAuth=0b01409d5044d3dbcb740596020dda0f&token=cpn-androidmpro-0-1046540-ed97bc243a5b9648636f8ad31ae5c59c016d9f7ecb0b53b0&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
+【特辑电影】,http://akm-tct.douyucdn.cn/live/3637778raLSXdOdu_900.flv?uuid=
+【特辑电影】,http://tc-tct.douyucdn2.cn/dyliveflv1a/3637778raLSXdOdu.flv?wsAuth=3024cc09e13e36ec80e25dbaa1ded213&token=cpn-androidmpro-0-3637778-8c089871434b934457cc3637a698e1e03b91b7f46fb70b16&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play
+【经典搞笑电视剧】轮播 高清,http://akm-tct.douyucdn.cn/live/5429211r72tkogaJ_900.flv?uuid=
+【经典搞笑电视剧】轮播 高清,http://tc-tct.douyucdn2.cn/dyliveflv3a/5429211r72tkogaJ.flv?wsAuth=e3cde64925cb13658aa5dffd1c5099d8&token=cpn-androidmpro-0-5429211-f8911328ca0bf06eaa6e6135bb116a703ec61438600980f5&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play
+【悬疑】午夜惊悚乐园,http://akm-tct.douyucdn.cn/live/9075333rrIlnWrhq_900.flv?uuid=
+【悬疑】午夜惊悚乐园,http://tc-tct.douyucdn2.cn/dyliveflv3a/9075333rrIlnWrhq.flv?wsAuth=76f45709189f35d458c8c49a332fab2d&token=cpn-androidmpro-0-9075333-b992202aee70e5ce7fbe244908ea3013e43c13881b799ee3&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play
+清汤寡水之情景喜剧,http://akm-tct.douyucdn.cn/live/3980787r5PSonqGe_900.flv?uuid=
+清汤寡水之情景喜剧,http://tc-tct.douyucdn2.cn/dyliveflv3a/3980787r5PSonqGe.flv?wsAuth=4a611759157e426d50434abf66439041&token=cpn-androidmpro-0-3980787-68b5030f856113992fef0720c95acad5bfa2cc75fc8bf134&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play
+贾队长~原版独播,http://akm-tct.douyucdn.cn/live/6778282rxK6MCs4J_900.flv?uuid=
+贾队长~原版独播,http://tc-tct.douyucdn2.cn/dyliveflv3/6778282rxK6MCs4J_2000.flv?wsAuth=82c3b925933459d1d241adaae7434947&token=cpn-androidmpro-0-6778282-b0c9475bf7e9733e68ecc422239d1eb274dd53ac850f165a&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=
+开心情景剧-超清去片头片尾,http://akm-tct.douyucdn.cn/live/6648727rFJ1N3x0d_900.flv?uuid=
+开心情景剧-超清去片头片尾,http://tc-tct.douyucdn2.cn/dyliveflv3/6648727rFJ1N3x0d.flv?wsAuth=4af2d4a1af3939f512fd677ee2e4df5a&token=cpn-androidmpro-0-6648727-7c4efb9224ac6ea61ad322244383a9df55e0906033236b9a&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
+金庸武侠、古装神剧,http://akm-tct.douyucdn.cn/live/338759rS86bOO8Ur_900.flv?uuid=
+金庸武侠、古装神剧,http://tc-tct.douyucdn2.cn/dyliveflv3/338759rS86bOO8Ur.flv?wsAuth=8dbe7c549e0fb3113ac41b889133e79b&token=cpn-androidmpro-0-338759-d65d3c6dcd06db7fafc89d0513950f0c29ee375bc51f5af5&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
+【万合天宜】,http://akm-tct.douyucdn.cn/live/9220456rH7rHdJTG_900.flv?uuid=
+【万合天宜】,http://tc-tct.douyucdn2.cn/dyliveflv3/9220456rH7rHdJTG.flv?wsAuth=41803e600f29dbb66a79cf2e3bb769ba&token=cpn-androidmpro-0-9220456-354aa795ca09fea450f1c185aa0aa194ffd1a577848ce03c&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
+【超清2】热门港剧天地,http://akm-tct.douyucdn.cn/live/5522351rHxHefg4N_900.flv?uuid=
+【超清2】热门港剧天地,http://tc-tct.douyucdn2.cn/dyliveflv3a/5522351rHxHefg4N.flv?wsAuth=bd4f426868a82d58360a697c8279c19d&token=cpn-androidmpro-0-5522351-a92b46789bbb4306b2ce58598ca1f13cef1a9322d7687219&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play
+【1900影剧室】精讲剧场,http://akm-tct.douyucdn.cn/live/7796193r6VZZQqpl_900.flv?uuid=
+【1900影剧室】精讲剧场,http://tc-tct.douyucdn2.cn/dyliveflv3a/7796193r6VZZQqpl.flv?wsAuth=00dd15beedf07f429c838238bb4b0fe8&token=cpn-androidmpro-0-7796193-1941a9c7cff9fec841b167dadf143a89c9b7f4f405eb89b8&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play
+【百晓生】经典武侠解说,http://akm-tct.douyucdn.cn/live/9649681r2X4IH94D_900.flv?uuid=
+【百晓生】经典武侠解说,http://tc-tct.douyucdn2.cn/dyliveflv3/9649681r2X4IH94D.flv?wsAuth=c13fc544e6772bdf30dae62f278cd7b0&token=cpn-androidmpro-0-9649681-cc52ebf6d4049cad4ce0d0b6f0f952335ceeb79850ebe3c9&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
+【贝贝】AI修复 军旅 历史 古装 动作,http://akm-tct.douyucdn.cn/live/431460ruxUQ2PpBP_900.flv?uuid=
+【贝贝】AI修复 军旅 历史 古装 动作,http://tc-tct.douyucdn2.cn/dyliveflv1a/431460ruxUQ2PpBP_2000.flv?wsAuth=1533adb00be4ed43c0deffde24e7dc1b&token=cpn-androidmpro-0-431460-554325856bc8ed96d8248c360c7037cdb3a6f7c0e2ea2687&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=
+【女神金】,http://akm-tct.douyucdn.cn/live/747764rSNO2ic2gx_900.flv?uuid=
+【女神金】,http://tc-tct.douyucdn2.cn/dyliveflv1/747764rSNO2ic2gx_2000.flv?wsAuth=b85c042271ee44503e3d25cbffd6bf48&token=cpn-androidmpro-0-747764-72757a48f7b39f8d6dcef218bdb27fb62de4911a7d8b2cc1&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
+开心锤锤,http://akm-tct.douyucdn.cn/live/9018297rFOWqJkid_900.flv?uuid=
+开心锤锤,http://tc-tct.douyucdn2.cn/dyliveflv3a/9018297rFOWqJkid.flv?wsAuth=3d4cdc0b582f5cb92a829724f0b6faee&token=cpn-androidmpro-0-9018297-3ad17f3c6213335c3db014e10c28439fa6039c49301c6e75&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play
+神乐华语 经典 电影 沈腾 周星驰,http://akm-tct.douyucdn.cn/live/85894rmovieChow_900.flv?uuid=
+神乐华语 经典 电影 沈腾 周星驰,http://tc-tct.douyucdn2.cn/dyliveflv1/85894rmovieChow_2000.flv?wsAuth=1654a7dbdd0f43026d74f40fa5b16f9f&token=cpn-androidmpro-0-85894-a3575d938a4aa30948fcdebc46b8acfab96b4eca7d340f4d&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=pla
+怡寳 港台 科幻  喜剧,http://akm-tct.douyucdn.cn/live/434971rZh6fxLqk3_900.flv?uuid=
+怡寳 港台 科幻  喜剧,http://tc-tct.douyucdn2.cn/dyliveflv3/434971rZh6fxLqk3.flv?wsAuth=f77ddc6397327d1c10e86457fc4b4551&token=cpn-androidmpro-0-434971-cf13bf7243421b8d10d11d5614e1648ff0df8983fcc05f57&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
+周星驰华语 成龙 电影 神乐,http://akm-tct.douyucdn.cn/live/122402rK7MO9bXSq_900.flv?uuid=
+周星驰华语 成龙 电影 神乐,http://tc-tct.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_2000.flv?wsAuth=37a6157d3fde53e15e2a5ec0b0b75e6b&token=cpn-androidmpro-0-122402-0fcea45d2300cfa0cfdec84a345a019110914600f63a7fc4&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=
+【青铜椁】,http://akm-tct.douyucdn.cn/live/9292503rl1Bs3mdH_900.flv?uuid=
+【青铜椁】,http://tc-tct.douyucdn2.cn/dyliveflv3/9292503rl1Bs3mdH.flv?wsAuth=e191b19a75e61e9f828f835bb3969d9a&token=cpn-androidmpro-0-9292503-eaea70f61bda129cbfcd01f25059a04d255d276c9b4fdf86&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
+【漫威】,http://akm-tct.douyucdn.cn/live/6140589rPz6xBRsP_900.flv?uuid=
+【漫威】,http://tc-tct.douyucdn2.cn/dyliveflv3/6140589rPz6xBRsP.flv?wsAuth=bd575f1931937da6cce732be8e4e61bb&token=cpn-androidmpro-0-6140589-8c9f814ba60c86af7bf57d65dd9f61f3d93eb74c8e239ba9&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
+【豆瓣高分】,http://akm-tct.douyucdn.cn/live/8770422rpmtbecmG_900.flv?uuid=
+【豆瓣高分】,http://tc-tct.douyucdn2.cn/dyliveflv3a/8770422rpmtbecmG.flv?wsAuth=962d4156da39c72a54b8461f44acb9c3&token=cpn-androidmpro-0-8770422-e168dc19fd264214fc23e82fea9b0cd1b56a8e7fc5e6f71f&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play
+【刘德华】,http://akm-tct.douyucdn.cn/live/2516864rg0XfDfJB_900.flv?uuid=
+【刘德华】,http://tc-tct.douyucdn2.cn/dyliveflv3a/2516864rg0XfDfJB.flv?wsAuth=8f2577bdd3642231272b9da0284c053f&token=cpn-androidmpro-0-2516864-d16172395f77f239a1eb4b6bc9c7317d758fe6bedd3b0a98&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play
+爱你孤身走暗巷！爱你不跪的模样,http://akm-tct.douyucdn.cn/live/7528160rcjmuZbfY_900.flv?uuid=
+爱你孤身走暗巷！爱你不跪的模样,http://tc-tct.douyucdn2.cn/dyliveflv1/7528160rcjmuZbfY.flv?wsAuth=bab349e238f8061670ff4e3793a90d23&token=cpn-androidmpro-0-7528160-1046605ba89e64614ba3f9cda5807dac9cc7cf63814f7eea&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
+【Hunter】动漫 热血 老贼 冒险,http://akm-tct.douyucdn.cn/live/6610883rqTGIVCaL_900.flv?uuid=
+【Hunter】动漫 热血 老贼 冒险,http://tc-tct.douyucdn2.cn/dyliveflv3/6610883rqTGIVCaL.flv?wsAuth=a4d8779362519f0fa47b674a5e64183a&token=cpn-androidmpro-0-6610883-b9ca02f7939d5783de91039bb370cd6e2f9496c71730201b&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
+草帽丶海贼团的直播间,http://akm-tct.douyucdn.cn/live/997925rBJoloI6nn_900.flv?uuid=
+草帽丶海贼团的直播间,http://tc-tct.douyucdn2.cn/dyliveflv3a/997925rBJoloI6nn.flv?wsAuth=44c0398b356dc7896320e1cbc0f12758&token=cpn-androidmpro-0-997925-b6337900f87d6f655d7253981c89036da7417c73ca494c33&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play4
+万年如一柯播南,http://akm-tct.douyucdn.cn/live/1783144rQqrPGIlr_900.flv?uuid=
+万年如一柯播南,http://tc-tct.douyucdn2.cn/dyliveflv1a/1783144rQqrPGIlr.flv?wsAuth=2a776755c2422d9cfa3fa1552bed13be&token=cpn-androidmpro-0-1783144-0e90e0b408c470ca4dfa70d452bec69aaebe935598ac72a6&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play
+小片片说大片,http://akm-tct.douyucdn.cn/live/4258555r3isvDdlq_900.flv?uuid=
+小片片说大片,http://124.223.212.38:83/douyu/4258555
+陈翔六点半,http://akm-tct.douyucdn.cn/live/2132902rSFCMBghC_900.flv?uuid=
+陈翔六点半,http://124.223.212.38:83/douyu/2132902
+开心麻花经典小品,http://akm-tct.douyucdn.cn/live/10153463r0oBSmAG_900.flv?uuid=
+开心麻花经典小品,http://maomao.kandiantv.cn/douyu1.php?id=10153463
+小约翰可汗,http://akm-tct.douyucdn.cn/live/9738854rI6IQhLSX.flv?uuid=
+小约翰可汗,http://124.223.212.38:83/douyu/9738854
+【开心一刻】宋小宝经典小品,http://akm-tct.douyucdn.cn/live/9817729rxkZJQa6A.flv?uuid=
+【开心一刻】宋小宝经典小品,http://maomao.kandiantv.cn/douyu1.php?id=9817729
+JJ斗地主官方,http://akm-tct.douyucdn.cn/live/488743rAHScWyyII_4000.flv?uuid=
+【美食】舌尖上的火锅，美食不可辜负,http://maomao.kandiantv.cn/douyu1.php?id=9650849
+【美食】舌尖上的早餐，天天不一样,http://maomao.kandiantv.cn/douyu1.php?id=5451871
+一个甜牛奶,http://maomao.kandiantv.cn/douyu1.php?id=7494871
+【邦德】再帮我一个忙，让我消失,http://maomao.kandiantv.cn/douyu1.php?id=9292499
+【邦德】再帮我一个忙，让我消失,http://124.223.212.38:83/douyu/9292499
+【刘德华】庆祝华仔出道40周年,http://maomao.kandiantv.cn/douyu1.php?id=2516864
+【刘德华】庆祝华仔出道40周年,http://124.223.212.38:83/douyu/2516864
+【喜剧】经典喜剧专场,http://maomao.kandiantv.cn/douyu1.php?id=9650887
+【喜剧】经典喜剧专场,http://124.223.212.38:83/douyu/9650887
+[兔兔陪看]爱笑的撸猫主播,http://maomao.kandiantv.cn/douyu1.php?id=1504768
+【贝爷影厅】经典 科幻 动作 灾难 巨兽,http://maomao.kandiantv.cn/douyu1.php?id=252802
+【贝爷影厅】经典 科幻 动作 灾难 巨兽,http://124.223.212.38:83/douyu/252802
+可乐电影 欧美 科幻 经典,http://maomao.kandiantv.cn/douyu1.php?id=20415
+可乐电影 欧美 科幻 经典,http://124.223.212.38:83/douyu/20415
+【霍格沃茨】伟大引起嫉妒，嫉妒导致怨毒,http://maomao.kandiantv.cn/douyu1.php?id=8814650
+【霍格沃茨】伟大引起嫉妒，嫉妒导致怨毒,http://124.223.212.38:83/douyu/8814650
+【花卷陪看】60帧豆瓣高分电影,http://maomao.kandiantv.cn/douyu1.php?id=52787
+奶虫 恐怖 丧尸 鬼片 灾难科幻,http://maomao.kandiantv.cn/douyu1.php?id=263824
+【小宇60帧】科幻 动作 喜剧 电影,http://maomao.kandiantv.cn/douyu1.php?id=323876
+【小宇60帧】科幻 动作 喜剧 电影,http://124.223.212.38:83/douyu/323876
+冰冰 恐怖/经典/搞笑陪你一起,http://maomao.kandiantv.cn/douyu1.php?id=74374
+冰冰 恐怖/经典/搞笑陪你一起,http://124.223.212.38:83/douyu/74374
+【小鸽陪看】华语热门影视剧,http://maomao.kandiantv.cn/douyu1.php?id=3928
+【小鸽陪看】华语热门影视剧,http://124.223.212.38:83/douyu/3928
+【刘德华】24小时看不停,http://124.223.212.38:83/douyu/8985415
+【恐怖】经典 恐怖 鬼怪 剧场,http://maomao.kandiantv.cn/douyu1.php?id=1165374
+【变种人】除掉任何阻碍我们的人,http://maomao.kandiantv.cn/douyu1.php?id=9651304
+【变种人】除掉任何阻碍我们的人,http://124.223.212.38:83/douyu/9651304
+这个冬天 一起看电影吧！,http://maomao.kandiantv.cn/douyu1.php?id=6079455
+曾小贤 胡一菲 第一季 第三季,http://maomao.kandiantv.cn/douyu1.php?id=5062195
+反手一个好家伙,http://maomao.kandiantv.cn/douyu1.php?id=7270927
+凌儿 热门影视 点播,http://maomao.kandiantv.cn/douyu1.php?id=1377142
+很高兴认识你,http://maomao.kandiantv.cn/douyu1.php?id=7305938
+很高兴认识你,http://124.223.212.38:83/douyu/7305938
+【笑场】喜剧电影专场,http://maomao.kandiantv.cn/douyu1.php?id=9292492
+【笑场】喜剧电影专场,http://124.223.212.38:83/douyu/9292492
+【深圳旁边赌片】喜剧、黑帮、动作、武侠、经典,http://124.223.212.38:83/douyu/315457
+【s1134】经典 科幻 动作 灾难,http://maomao.kandiantv.cn/douyu1.php?id=248753
+【恐怖电影】鬼片 僵尸 灾难 丧尸片,http://maomao.kandiantv.cn/douyu1.php?id=310926
+【恐怖电影】 林正英 僵尸 鬼片 经典,http://maomao.kandiantv.cn/douyu1.php?id=9275635
+【恐怖电影】 林正英 僵尸 鬼片 经典,http://124.223.212.38:83/douyu/9275635
+【经典巨制】欧美大片,http://maomao.kandiantv.cn/douyu1.php?id=2793084
+【经典巨制】欧美大片,http://124.223.212.38:83/douyu/2793084
+【粤语电影】吴孟达 达叔 周星驰 经典,http://maomao.kandiantv.cn/douyu1.php?id=1226741
+【米娅陪看】60帧喜剧科幻电影真人互动,http://maomao.kandiantv.cn/douyu1.php?id=6537888
+【话事人】粤语【周星驰】【林正英】,http://maomao.kandiantv.cn/douyu1.php?id=5033502
+【贝爷影厅】欧美 日韩 国产 2号,http://maomao.kandiantv.cn/douyu1.php?id=36337
+【贝爷影厅】欧美 日韩 国产 2号,http://124.223.212.38:83/douyu/36337
+【表妹】国产青春 动作 喜剧轮播,http://maomao.kandiantv.cn/douyu1.php?id=5423
+恭喜EDG 牛逼 666,http://maomao.kandiantv.cn/douyu1.php?id=2714
+译制国语影片荟萃,http://maomao.kandiantv.cn/douyu1.php?id=2436390
+奶瓶 新三国,http://maomao.kandiantv.cn/douyu1.php?id=6546908
+【高帧】成龙/动作/武侠/高分,http://maomao.kandiantv.cn/douyu1.php?id=6763930
+【HiFi4.0】女团 车模 写真,http://maomao.kandiantv.cn/douyu1.php?id=427397
+12月，做快乐的自己,http://maomao.kandiantv.cn/douyu1.php?id=1274132
+【经典影视韩国车模小刚歌】,http://maomao.kandiantv.cn/douyu1.php?id=1360303
+【网神影厅】经典 科幻 动作 灾难 二战,http://maomao.kandiantv.cn/douyu1.php?id=508118
+【Firend黎伽嘛】粤语港产片爱好者,http://maomao.kandiantv.cn/douyu1.php?id=8603174
+【Firend黎伽嘛】粤语港产片爱好者,http://124.223.212.38:83/douyu/8603174
+全网最清晰林正英,http://maomao.kandiantv.cn/douyu1.php?id=7356023
+全网最清晰林正英,http://124.223.212.38:83/douyu/7356023
+【星星影院】漫威 科幻 动作 欧美 灾难,http://maomao.kandiantv.cn/douyu1.php?id=315131
+【星星影院】漫威 科幻 动作 欧美 灾难,http://124.223.212.38:83/douyu/315131
+【宇哥】总有你没看过的经典,http://maomao.kandiantv.cn/douyu1.php?id=413573
+【宇哥】总有你没看过的经典,http://124.223.212.38:83/douyu/413573
+奶瓶 欧美 科幻 灾难 电影 陪看,http://maomao.kandiantv.cn/douyu1.php?id=6655271
+永恩之亦开始了啊,http://maomao.kandiantv.cn/douyu1.php?id=8252036
+【漫威丶嗷大喵】漫威电影 超清 轮播,http://maomao.kandiantv.cn/douyu1.php?id=4282654
+【漫威丶嗷大喵】漫威电影 超清 轮播,http://124.223.212.38:83/douyu/4282654
+电影点播 荧幕经典,http://124.223.212.38:83/douyu/9652323
+你的坚持，终将美好！,http://maomao.kandiantv.cn/douyu1.php?id=251125
+肖胜350的直播间,http://maomao.kandiantv.cn/douyu1.php?id=7338853
+经典一直看,http://maomao.kandiantv.cn/douyu1.php?id=10048704
+专业烧脑 一个安静的直播间,http://maomao.kandiantv.cn/douyu1.php?id=5802446
+悬疑 喜剧 剧本杀素材影片欣赏,http://maomao.kandiantv.cn/douyu1.php?id=2535105
+【斗鱼电影推荐官】更新中,http://maomao.kandiantv.cn/douyu1.php?id=2523528
+【冤案】夫斯乃上蔡布衣，闾巷之黔首,http://maomao.kandiantv.cn/douyu1.php?id=6706214
+【冤案】夫斯乃上蔡布衣，闾巷之黔首,http://124.223.212.38:83/douyu/6706214
+【刑侦】饿不饿，要不要下一碗面吃呀,http://maomao.kandiantv.cn/douyu1.php?id=138959
+【鉴证】刑侦破案，线索追凶,http://maomao.kandiantv.cn/douyu1.php?id=8323493
+蓝光画质电视剧,http://maomao.kandiantv.cn/douyu1.php?id=3831627
+傲娇的超级赛亚人的直播间,http://maomao.kandiantv.cn/douyu1.php?id=4373285
+傲娇的超级赛亚人的直播间,http://124.223.212.38:83/douyu/4373285
+【超清3】人气港剧天地,http://maomao.kandiantv.cn/douyu1.php?id=5261342
+【经典搞笑电视剧】轮播?高清,http://maomao.kandiantv.cn/douyu1.php?id=5429211
+《武侠剧》,http://maomao.kandiantv.cn/douyu1.php?id=7655471
+经典港剧、古装剧,http://maomao.kandiantv.cn/douyu1.php?id=4147520
+粤语影视动漫直播间,http://maomao.kandiantv.cn/douyu1.php?id=8524186
+回顾经典影视，求关注,http://maomao.kandiantv.cn/douyu1.php?id=6963125
+奶瓶 港剧经典轮播,http://maomao.kandiantv.cn/douyu1.php?id=6241733
+圆子?纯系初恋 电视剧 电影 动漫,http://maomao.kandiantv.cn/douyu1.php?id=6566658
+【二炮】养条狗，不防鬼子防贼九,http://maomao.kandiantv.cn/douyu1.php?id=9522194
+开炮开炮开炮！,http://maomao.kandiantv.cn/douyu1.php?id=3321215
+天堂经典影院,http://maomao.kandiantv.cn/douyu1.php?id=7359565
+【小宇】铁汁们冲鸭,http://maomao.kandiantv.cn/douyu1.php?id=54945
+【胡椒粉的胡歌】 胡歌 经典 漫威 星爷,http://maomao.kandiantv.cn/douyu1.php?id=5448413
+曾经的小小少年,http://maomao.kandiantv.cn/douyu1.php?id=6896398
+【老白和小粉】化学攻击最为致命,http://maomao.kandiantv.cn/douyu1.php?id=755832
+国强四阿哥九子夺嫡,http://maomao.kandiantv.cn/douyu1.php?id=4944033
+【六小龄童】你挑着担，我牵着马,http://maomao.kandiantv.cn/douyu1.php?id=8953746
+【一战 二战 历史 军事】,http://maomao.kandiantv.cn/douyu1.php?id=4870914
+【番号】入万军丛中，取上将头颅,http://maomao.kandiantv.cn/douyu1.php?id=8157860
+【西游】由爱故生怨，怨恨交缠，那又何苦,http://maomao.kandiantv.cn/douyu1.php?id=9518204
+陈佩斯喜剧放映中,http://maomao.kandiantv.cn/douyu1.php?id=9286868
+【米尼影院】经典电视剧,http://maomao.kandiantv.cn/douyu1.php?id=7642724
+「橙幕」「最人气港剧直播间」,http://maomao.kandiantv.cn/douyu1.php?id=4549169
+【Liz陪看】科幻 喜剧 动作,http://maomao.kandiantv.cn/douyu1.php?id=7254536
+嘿 我肥来啦 胡一菲??曾小贤??,http://maomao.kandiantv.cn/douyu1.php?id=6863367
+这命途多舛的世界里，辗转的岂止我和你,http://maomao.kandiantv.cn/douyu1.php?id=9461178
+【点歌】音乐MV频道,http://maomao.kandiantv.cn/douyu1.php?id=3870925
+小饼 一个神秘的电影直播间,http://maomao.kandiantv.cn/douyu1.php?id=1735337
+【瑶瑶】童年阴影 鬼片 恐怖 惊悚,http://maomao.kandiantv.cn/douyu1.php?id=2935323
+??周杰伦??MV音乐演唱会高清电影视频,http://maomao.kandiantv.cn/douyu1.php?id=7537296
+专属音乐台：一起听音乐,http://maomao.kandiantv.cn/douyu1.php?id=3186217
+小饼 ?蓝光 胡八一 经典电视剧,http://maomao.kandiantv.cn/douyu1.php?id=7701735
+顺财 搞笑一家亲,http://maomao.kandiantv.cn/douyu1.php?id=10084875
+周杰伦天天见,http://maomao.kandiantv.cn/douyu1.php?id=5635000
+世界未解之谜盘点，秦始皇之死,http://maomao.kandiantv.cn/douyu1.php?id=9369468
+【瑜伽女孩】练习每一天,http://maomao.kandiantv.cn/douyu1.php?id=10205199
+美女带你做瑜伽,http://maomao.kandiantv.cn/douyu1.php?id=10217953
+功夫gongfu的直播间,http://maomao.kandiantv.cn/douyu1.php?id=10060375
+老北京文化（直播间视频已更新）,http://maomao.kandiantv.cn/douyu1.php?id=5168012
+石头老纪的直播间,http://maomao.kandiantv.cn/douyu1.php?id=9047060
+【正版】经典小品，下饭必备,http://maomao.kandiantv.cn/douyu1.php?id=9067836
+【弹幕聊天室】一起来看小姐姐吧,http://maomao.kandiantv.cn/douyu1.php?id=425809
+【开心一刻】赵本山经典小品轮播,http://maomao.kandiantv.cn/douyu1.php?id=9817716
+【正版】经典小品轮播电视台,http://maomao.kandiantv.cn/douyu1.php?id=9322175
+【搞笑孟文明】有趣的灵魂万里挑一,http://maomao.kandiantv.cn/douyu1.php?id=9766337
+经典小品相声乐不停,http://maomao.kandiantv.cn/douyu1.php?id=9273031
+【最新已更】做个快乐的小吃货！,http://maomao.kandiantv.cn/douyu1.php?id=611814
+农村惬意小生活儿呀,http://maomao.kandiantv.cn/douyu1.php?id=8194977
+【最近】媳妇出院，做3斤滋补猪尾,http://maomao.kandiantv.cn/douyu1.php?id=7107176
+【超小厨】四川耙耳朵最近有点凶,http://maomao.kandiantv.cn/douyu1.php?id=8143715
+【郭杰瑞】被央视点名的美国小哥,http://maomao.kandiantv.cn/douyu1.php?id=7357786
+【吐槽】吐槽一下，快乐一天,http://maomao.kandiantv.cn/douyu1.php?id=9236042
+斗鱼棋牌1,http://124.223.212.38:83/douyu/1227260
+斗鱼棋牌2,http://124.223.212.38:83/douyu/851040
+斗鱼棋牌3,http://124.223.212.38:83/douyu/6264482
+斗鱼棋牌4,http://124.223.212.38:83/douyu/4369877
+
+虎牙,#genre#
+周星驰-粤语,http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2777036638-10057-A-0-1.xs
+周星驰,http://txtest-xp2p.p2p.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1-imgplus.xs
+吴孟达,http://txtest-xp2p.p2p.huya.com/src/1388457235-1388457235-5963378416219586560-2777037926-10057-A-0-1.xs
+林正英,http://txtest-xp2p.p2p.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.xs
+沈腾,http://txtest-xp2p.p2p.huya.com/src/1524418085-1524418085-6547325820505948160-3048959626-10057-A-0-1.xs
+甄子丹,http://txtest-xp2p.p2p.huya.com/src/1423787820-1423787820-6115122123343134720-2847699096-10057-A-0-1.xs
+成龙,http://txtest-xp2p.p2p.huya.com/src/1394565191-1394565191-5989611887484993536-2789253838-10057-A-0-1.xs
+李连杰,http://txtest-xp2p.p2p.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1.xs
+周润发,http://txtest-xp2p.p2p.huya.com/src/1394565192-1394565192-5989611891779960832-2789253840-10057-A-0-1.xs
+刘德华,http://txtest-xp2p.p2p.huya.com/src/1394575547-1394575547-5989656366166310912-2789274550-10057-A-0-1.xs
+洪金宝,http://txtest-xp2p.p2p.huya.com/src/73821423-73821423-317060597529182208-2710090468-10057-A-0-1.xs
+吴京,http://txtest-xp2p.p2p.huya.com/src/1524434090-1524434090-6547394561457520640-3048991636-10057-A-0-1.xs
+黄渤,http://txtest-xp2p.p2p.huya.com/src/1449698962-1449698962-6226409630835146752-2789274564-10057-A-0-1.xs
+刘家辉,http://txtest-xp2p.p2p.huya.com/src/1449584124-1449584124-6225916405380808704-2847687586-10057-A-0-1.xs
+咏春系列,http://txtest-xp2p.p2p.huya.com/src/1448737814-1448737814-6222281531608530944-2777037662-10057-A-0-1.xs
+黑帮系列,http://txtest-xp2p.p2p.huya.com/src/1388472589-1388472589-5963444361147449344-2777068634-10057-A-0-1.xs
+古墓系列,http://txtest-xp2p.p2p.huya.com/src/1423782085-1423782085-6115097491705692160-2847687626-10057-A-0-1.xs
+赛车系列,http://txtest-xp2p.p2p.huya.com/src/1354978385-1354978385-5819587850361896960-2710080226-10057-A-0-1.xs
+警匪系列,http://txtest-xp2p.p2p.huya.com/src/1449581589-1449581589-6225905517638713344-3048959636-10057-A-0-1.xs
+中国功夫,http://txtest-xp2p.p2p.huya.com/src/1448738174-1448738174-6222283077796757504-2847699112-10057-A-0-1.xs
+喜剧系列,http://txtest-xp2p.p2p.huya.com/src/1524434089-1524434089-6547394557162553344-3048991634-10057-A-0-1.xs
+动作大片,http://txtest-xp2p.p2p.huya.com/src/1524439840-1524439840-6547419257519472640-3049003136-10057-A-0-1.xs
+玄幻系列,http://txtest-xp2p.p2p.huya.com/src/1423787882-1423787882-6115122389631107072-2847699220-10057-A-0-1.xs
+古装武侠,http://txtest-xp2p.p2p.huya.com/src/1394575562-1394575562-5989656430590820352-2789274580-10057-A-0-1.xs
+香港女神系列,http://txtest-xp2p.p2p.huya.com/src/1388451591-1388451591-5963354175424167936-2777026638-10057-A-0-1.xs
+王晶导演,http://txtest-xp2p.p2p.huya.com/src/1524434111-1524434111-6547394651651833856-3048991678-10057-A-0-1.xs
+历年贺岁大片,http://txtest-xp2p.p2p.huya.com/src/1524418118-1524418118-6547325962239868928-3048959692-10057-A-0-1.xs
+金庸武侠系列,http://txtest-xp2p.p2p.huya.com/src/1394575551-1394575551-5989656383346180096-2789274558-10057-A-0-1.xs
+偷心大盗ヽ龍宝 成龙经典武打动作片,http://txtest-xp2p.p2p.huya.com/src/1394565191-1394565191-5989611887484993536-2789253838-10057-A-0-1-imgplus.xs
+核桃姐姐 李连杰系列 武打高产王,http://txtest-xp2p.p2p.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1.xs
+Mz芒果 【赌神】周润发、./河南主,http://txtest-xp2p.p2p.huya.com/src/1199587939476-1199587939476-5549372160482476032-2399176002408-10057-A-0-1.xs
+周星星 【周星星】星爷经典不间断,http://txtest-xp2p.p2p.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1-imgplus.xs
+虎牙影院 【虎牙影院】沈腾经典片放映,http://txtest-xp2p.p2p.huya.com/src/1524418085-1524418085-6547325820505948160-3048959626-10057-A-0-1.xs
+陈翔六点半 陈翔六点半·更新到301集了,http://txtest-xp2p.p2p.huya.com/src/1352054947-1352054947-5807031779760013312-2704233350-10057-A-0-1-imgplus.xs
+Ehime爱媛果冻橙  吴京 成龙 甄子丹 李连杰经典动作片,http://txtest-xp2p.p2p.huya.com/src/1199580482992-1199580482992-5517346805559328768-2399161089440-10057-A-0-1.xs
+阿斗归来了 神秘诅咒背后隐藏的秘密,http://txtest-xp2p.p2p.huya.com/src/94525224-2583571962-11096357083652554752-3503038830-10057-A-0-1-imgplus.xs
+鯎爺 滚滚长江东逝水,http://txtest-xp2p.p2p.huya.com/src/1423787831-1423787831-6115122170587774976-2847699118-10057-A-0-1-imgplus.xs
+斌哥漫说 【死神】护廷十三队出现危机！所有队长全被掉包！34,http://txtest-xp2p.p2p.huya.com/src/1199516152253-1199516152253-5241048385426817024-2399032427962-10057-A-0-1.xs
+野原新之助- 蜡笔小新·逗比少年欢乐多,http://txtest-xp2p.p2p.huya.com/src/1423787878-1423787878-6115122372451237888-2847699212-10057-A-0-1-imgplus.xs
+教父三部曲的影迷 老白刷肉坊 菊花点穴手,http://txtest-xp2p.p2p.huya.com/src/1099531752781-1099531752781-86436238306836480-2199063629018-10057-A-0-1.xs
+小木子先生丶 纪晓岚-岚宝珅宝的爱恨情仇,http://txtest-xp2p.p2p.huya.com/src/1394565204-1394565204-5989611943319568384-2789253864-10057-A-0-1-imgplus.xs
+胖虎噜噜噜 最后的假日,http://txtest-xp2p.p2p.huya.com/src/1199527202658-1199527202658-5288509513509371904-2399054528772-10057-A-0-1.xs
+瞬间爆炸 身世神秘的范闲书写人生传奇,http://txtest-xp2p.p2p.huya.com/src/1423787860-1423787860-6115122295141826560-2847699176-10057-A-0-1.xs
+大象放映室 豆瓣8.4，你年少时暗恋的那个TA，现在过得怎么样？,http://txtest-xp2p.p2p.huya.com/src/1199531762115-1199531762115-5308092232211890176-2399063647686-10057-A-0-1.xs
+DD-木子 夏洛特烦恼，沈腾，邓超，搞笑电影,http://txtest-xp2p.p2p.huya.com/src/1199602586545-1199602586545-5612280842819731456-2399205296546-10057-A-0-1.xs
+DD-小秋 唐人街探案：你王姐归来吗？搞笑,http://txtest-xp2p.p2p.huya.com/src/1199512561102-1199512561102-5225624509326819328-2399025245660-10057-A-0-1.xs
+大梦电影 《信号100》想知道一百种信号是干嘛的吗，准备好啦,http://txtest-xp2p.p2p.huya.com/src/1199573065336-1199573065336-5485488215626350592-2399146254128-10057-A-0-1.xs
+扁豆看电影 太敢拍了！国产神片，看一部少一部《背靠背，脸对脸》,http://txtest-xp2p.p2p.huya.com/src/94525224-2703099090-11609722189397360640-4587890396-10057-A-0-1.xs
+Mz玲珑丶819 万万没想到，勇敢牛牛，不怕困难,http://txtest-xp2p.p2p.huya.com/src/1199523155564-1199523155564-5271127377135534080-2399046434584-10057-A-0-1.xs
+痞子帅叔叔 【超级交通站】抗ri情景喜剧,http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2789274572-10057-A-0-1.xs
+DD-柠檬 僵尸  鬼片经典,http://txtest-xp2p.p2p.huya.com/src/1199582504831-1199582504831-5526030537942106112-2399165133118-10057-A-0-1.xs
+狗哥吃火锅 【火影重置版04】力量暴增！佐助获得咒印力量！动画——中忍考试篇02,http://txtest-xp2p.p2p.huya.com/src/1199512574006-1199512574006-5225679931584806912-2399025271468-10057-A-0-1.xs
+就是大咪呀 一名资深狙击枪最快是2.5秒，我2.3秒,http://txtest-xp2p.p2p.huya.com/src/1199589421138-1199589421138-5555735850316201984-2399178965732-10057-A-0-1.xs
+-懒猪 少年包青黑之旅	,http://txtest-xp2p.p2p.huya.com/src/1394565200-1394565200-5989611926139699200-2789253856-10057-A-0-1-imgplus.xs
+枫哥视 飞出个未来,http://txtest-xp2p.p2p.huya.com/src/1199579767212-1199579767212-5514272553868197888-2399159657880-10057-A-0-1.xs
+我是詹密 雍正皇帝的风云一生,http://txtest-xp2p.p2p.huya.com/src/1448738195-1448738195-6222283167991070720-2789274594-10057-A-0-1.xs
+利世-余小二 【龙珠超动画】召开力之大会32,http://txtest-xp2p.p2p.huya.com/src/146501201-146501201-629217867119722496-293125858-10057-A-0-1.xs
+鱼塘塘主张年年 新水hu·在下正是西公子！,http://txtest-xp2p.p2p.huya.com/src/1394565188-1394565188-5989611874600091648-2789253832-10057-A-0-1.xs
+领带哥 许三多军营成长史,http://txtest-xp2p.p2p.huya.com/src/1394575555-1394575555-5989656400526049280-2789274566-10057-A-0-1.xs
+SG-甜橙Q 秋名山89上山 奔驰上树,http://txtest-xp2p.p2p.huya.com/src/1199586792263-1199586792263-5544444918165929984-2399173707982-10057-A-0-1.xs
+维达人 RM 刘在石李光洙跑男,http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2777071322-10057-A-0-1.xs
+裸奔的蜗牛╮ 康熙·民间私访,http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2789274536-10057-A-0-1.xs
+傻妞 【邻li一家亲】满院白眼狼,http://txtest-xp2p.p2p.huya.com/src/1394575549-1394575549-5989656374756245504-2789274554-10057-A-0-1-imgplus.xs
+科幻梦工场 科幻电影《沙丘魔蚁》,http://txtest-xp2p.p2p.huya.com/src/94525224-2682536056-11521404630860824576-3512313440-10057-A-0-1-imgplus.xs
+我爱黑科技 我是谢飞机 别扒拉我,http://txtest-xp2p.p2p.huya.com/src/1524439828-1524439828-6547419205979865088-3049003112-10057-A-0-1.xs
+摄氏零度 易中天品三国	,http://txtest-xp2p.p2p.huya.com/src/1524434067-1524434067-6547394462673272832-3048991590-10057-A-0-1.xs
+莫小辰 一代经典星爷，难以超越,http://txtest-xp2p.p2p.huya.com/src/1449698986-1449698986-6226409733914361856-2847687634-10057-A-0-1.xs
+yao不能停 在外三藏獒，在家三二哈,http://txtest-xp2p.p2p.huya.com/src/1524418106-1524418106-6547325910700261376-3048959668-10057-A-0-1.xs
+柯冉冉 龙men·老奸巨猾年掌柜,http://txtest-xp2p.p2p.huya.com/src/1449698121-1449698121-6226406018767650816-2847687516-10057-A-0-1.xs
+萌新司机 大秦，终章！,http://txtest-xp2p.p2p.huya.com/src/1449698864-1449698864-6226409209928351744-2847687540-10057-A-0-1.xs
+实力拔萝卜 搞笑恐怖类 弹幕护体,http://txtest-xp2p.p2p.huya.com/src/1524418070-1524418070-6547325756081438720-3048959596-10057-A-0-1.xs
+Wang-我的女人 康熙大帝的传奇一生,http://txtest-xp2p.p2p.huya.com/src/1448737923-1448737923-6222281999759966208-2847699110-10057-A-0-1.xs
+我们都爱笑 网球王子·动画费德勒看了想打人	,http://txtest-xp2p.p2p.huya.com/src/1423782044-1423782044-6115097315612033024-2847687544-10057-A-0-1.xs
+四次元先生 相识、相知、相爱、相守的父母爱情,http://txtest-xp2p.p2p.huya.com/src/1524439831-1524439831-6547419218864766976-3049003118-10057-A-0-1-imgplus.xs
+心疼得抱住胖胖的自己 神tan狄仁杰·破案还得是他,http://txtest-xp2p.p2p.huya.com/src/1394575548-1394575548-5989656370461278208-2789274552-10057-A-0-1-imgplus.xs
+电影最TOP 电影最TOP 151: 被歌唱事业耽误的帝——张学友,http://txtest-xp2p.p2p.huya.com/src/94525224-2672048638-11476361513531342848-3153216706-10057-A-0-1.xs
+老王夸我帅 神貂侠侣·小笼包版姑姑上线,http://txtest-xp2p.p2p.huya.com/src/1423787869-1423787869-6115122333796532224-2847699194-10057-A-0-1-imgplus.xs
+力哥視 恐怖电影找力哥,http://txtest-xp2p.p2p.huya.com/src/1199557791348-1199557791348-5419886936686854144-2399115706152-10057-A-0-1.xs
+老司机 成龍历险记·动画社会我阿福乌鸦坐飞机	,http://txtest-xp2p.p2p.huya.com/src/1423787836-1423787836-6115122192062611456-2847699128-10057-A-0-1.xs
+會唱歌的小野貓 胡八一胖子沙漠古城找鬼洞,http://txtest-xp2p.p2p.huya.com/src/1423782025-1423782025-6115097234007654400-2847687506-10057-A-0-1.xs
+止戈电影 豆瓣8.2，一部黑暗到骨子里的悬疑片，不是所有真相都能被接受,http://txtest-xp2p.p2p.huya.com/src/1199522933703-1199522933703-5270174491396276224-2399045990862-10057-A-0-1.xs
+非凡武林 碧血剑8：袁承志闯荡江湖大战青竹帮，混元功显威，经典之战！,http://txtest-xp2p.p2p.huya.com/src/1279520922847-1279520922847-16817528283867381760-2559041969150-10057-A-0-1.xs
+母胎solo二百年 韦小宝泡妞秘籍·山鸡哥,http://txtest-xp2p.p2p.huya.com/src/1524418114-1524418114-6547325945059999744-3048959684-10057-A-0-1.xs
+大懒猫 精彩古装轮播,http://txtest-xp2p.p2p.huya.com/src/1524434091-1524434091-6547394565752487936-3048991638-10057-A-0-1.xs
+昵称违规-QQFbPxwM1A 狄仁杰：元芳 你怎么看？	,http://txtest-xp2p.p2p.huya.com/src/1423787855-1423787855-6115122273666990080-2847699166-10057-A-0-1.xs
+南西视频 动画路飞带领大家向顶上前进,http://txtest-xp2p.p2p.huya.com/src/1199512045291-1199512045291-5223409117950902272-2399024214038-10057-A-0-1.xs
+杀马特死神 看小品·春晚经典非看不可,http://txtest-xp2p.p2p.huya.com/src/1423782031-1423782031-6115097259777458176-2847687518-10057-A-0-1.xs
+凌莲 你怎么看待六子哥,http://txtest-xp2p.p2p.huya.com/src/1524439854-1524439854-6547419317649014784-3049003164-10057-A-0-1-imgplus.xs
+铁血真汉子 国产悬疑精选·智商在线,http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2789253862-10057-A-0-1.xs
+No1常在心 搞笑的一家人,http://txtest-xp2p.p2p.huya.com/src/1394565211-1394565211-5989611973384339456-2789253878-10057-A-0-1.xs
+种瓜得弟弟 夏雪夏雨夏冰雹,http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2847687508-10057-A-0-1.xs
+加班狗 yi馆笑传 oh长地久,http://txtest-xp2p.p2p.huya.com/src/1449698185-1449698185-6226406293645557760-2847687566-10057-A-0-1.xs
+大侠 快来追！yang光的快乐生活,http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-3049003162-10057-A-0-1.xs
+二次元控 丐帮帮主乔峰驾到·樊少皇老戏骨,http://txtest-xp2p.p2p.huya.com/src/1423782083-1423782083-6115097483115757568-2847687622-10057-A-0-1.xs
+童可可 你还记得大明湖畔的夏雨荷吗？,http://txtest-xp2p.p2p.huya.com/src/1423787874-1423787874-6115122355271368704-2847699204-10057-A-0-1.xs
+成长学院 中国通史-上下五千年,http://txtest-xp2p.p2p.huya.com/src/1099531752680-1099531752680-86435804515139584-2199063628816-10057-A-0-1.xs
+北岛南城 产科共同见证生与si,http://txtest-xp2p.p2p.huya.com/src/1524418076-1524418076-6547325781851242496-3048959608-10057-A-0-1.xs
+缔爵丶小阿杜 《龙珠超动画》一口气看完龙珠超4,http://txtest-xp2p.p2p.huya.com/src/2293333915-2293333915-9849794163732643840-4586791286-10057-A-0-1.xs
+Fight、Girl 【科幻系列】硬核浪漫,http://txtest-xp2p.p2p.huya.com/src/1423782061-1423782061-6115097388626477056-2847687578-10057-A-0-1.xs
+西红柿 【欢le颂】22楼姐妹花,http://txtest-xp2p.p2p.huya.com/src/1524418105-1524418105-6547325906405294080-3048959666-10057-A-0-1.xs
+呆萌小岳岳 一代枭雄为报父仇励精图治,http://txtest-xp2p.p2p.huya.com/src/1394565206-1394565206-5989611951909502976-2789253868-10057-A-0-1.xs
+小妖孽 在哪儿跌倒的还得在哪儿爬起来,http://txtest-xp2p.p2p.huya.com/src/1449584504-1449584504-6225918037468381184-3049003172-10057-A-0-1.xs
+茱麗葉 葛二蛋成长之路,http://txtest-xp2p.p2p.huya.com/src/1524439832-1524439832-6547419223159734272-3049003120-10057-A-0-1.xs
+HelloKitty 【猫和老鼠动画】汤姆和杰瑞的故事,http://txtest-xp2p.p2p.huya.com/src/1423782038-1423782038-6115097289842229248-2847687532-10057-A-0-1.xs
+阿良说剧 绝命毒师5-16，老白铲除了所有威胁，最终带着遗憾自首,http://txtest-xp2p.p2p.huya.com/src/1199526558405-1199526558405-5285742467944022016-2399053240266-10057-A-0-1.xs
+DD-解说 新七龙珠动画，武林大会,http://txtest-xp2p.p2p.huya.com/src/1199588542242-1199588542242-5551961020739616768-2399177207940-10057-A-0-1.xs
+全优少年 【经典】桃园结义三兄弟	,http://txtest-xp2p.p2p.huya.com/src/1524439845-1524439845-6547419278994309120-3049003146-10057-A-0-1.xs
+荒野达人 芈月和她的三个爱人,http://txtest-xp2p.p2p.huya.com/src/1423787884-1423787884-6115122398221041664-2847699224-10057-A-0-1.xs
+大鱼爱路飞 动画7四战快看系列【21-24】,http://txtest-xp2p.p2p.huya.com/src/1199590495159-1199590495159-5560348735386419200-2399181113774-10057-A-0-1.xs
+扫地僧 中国百年老字号百草厅,http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2789253858-10057-A-0-1.xs
+亿凡-邯郸电影院 【僵尸】【恐怖】女鬼喜剧电影,http://txtest-xp2p.p2p.huya.com/src/1199581074551-1199581074551-5519887532117983232-2399162272558-10057-A-0-1.xs
+糊了的胡萝卜动画 【速看-足球小将16期】南葛遭遇强敌-小翼尝试曲线射门,http://txtest-xp2p.p2p.huya.com/src/2391983955-2391983955-10273492859281735680-4784091366-10057-A-0-1.xs
+喝一碗杏仁茶 动画奥特曼中那些你不知道的秘密！,http://txtest-xp2p.p2p.huya.com/src/1099531752759-1099531752759-86436143817555968-2199063628974-10057-A-0-1.xs
+良少聊漫威 《蜘蛛侠英雄远征》，神秘客的阴险狡诈，让蜘蛛侠陷入众矢之地,http://txtest-xp2p.p2p.huya.com/src/1199582668017-1199582668017-5526731416475271168-2399165459490-10057-A-0-1.xs
+蓶1淳爷 【黑帮大片】山鸡哥重现江湖	,http://txtest-xp2p.p2p.huya.com/src/1388472589-1388472589-5963444361147449344-2777068634-10057-A-0-1-imgplus.xs
+楚门聊电影 一道闪电劈中火箭，导致火箭意外发射《美剧》天蝎,http://txtest-xp2p.p2p.huya.com/src/2322561713-2322561713-9975326600276738048-4645246882-10057-A-0-1.xs
+学妹爱学长 【警匪】不会当卧底的警察不是好卧底,http://txtest-xp2p.p2p.huya.com/src/1423782050-1423782050-6115097341381836800-2847687556-10057-A-0-1-imgplus.xs
+Adam短发 海贼王我抢了尾田的笔：动画从奥哈拉屠魔令到空白的一百年,http://txtest-xp2p.p2p.huya.com/src/1199532313878-1199532313878-5310462036252033024-2399064751212-10057-A-0-1.xs
+樹袋熊小九九 【五福星】每天都要快乐哦,http://txtest-xp2p.p2p.huya.com/src/1356780980-1356780980-5827329936934830080-2713685416-10057-A-0-1.xs
+小牡蛎 这些都是高智商的罪犯,http://txtest-xp2p.p2p.huya.com/src/1423787865-1423787865-6115122316616663040-2847699186-10057-A-0-1-imgplus.xs
+DD-VVqin 大笑江湖：别太放肆没什么用,http://txtest-xp2p.p2p.huya.com/src/1199584094118-1199584094118-5532856473631064064-2399168311692-10057-A-0-1.xs
+
+月光宝盒BOX,#genre#
+金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+经典功夫台,https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8
+CHC动作电影,http://125.40.191.58:9901/tsfile/live/1002_1.m3u8#http://59.49.41.44/live.aishang.ctlcdn.com/00000110240324_1/playlist.m3u8?CONTENTID=00000110240324_1#http://117.148.179.157/PLTV/88888888/224/3221231580/index.m3u8#http://117.148.179.157/PLTV/88888888/224/3221232945/index.m3u8#http://111.20.33.93/PLTV/88888893/224/3221226465/index.m3u8#http://117.148.179.138/PLTV/88888888/224/3221231580/index.m3u8#http://111.20.33.93/TVOD/88888893/224/3221226465/index.m3u8#http://59.49.41.41/live.aishang.ctlcdn.com/00000110240324_1/playlist.m3u8?CONTENTID=00000110240324_1
+
+CHC家庭影院,http://125.40.191.58:9901/tsfile/live/1001_1.m3u8#http://111.20.33.93/TVOD/88888893/224/3221226462/index.m3u8#http://117.148.179.157/PLTV/88888888/224/3221232942/index.m3u8#http://111.20.33.93/TVOD/88888893/224/3221226462/index.m3u8#http://gxfrg007.8800.org:8282/tsfile/live/1096_1.m3u8#http://59.49.41.41/live.aishang.ctlcdn.com/00000110240323_1/playlist.m3u8?CONTENTID=00000110240323_1#http://117.148.179.151/PLTV/88888888/224/3221231799/index.m3u8
+CHC高清電影,http://gxfrg007.8800.org:8282/tsfile/live/1097_1.m3u8#http://59.49.41.44/live.aishang.ctlcdn.com/00000110240325_1/playlist.m3u8?CONTENTID=00000110240325_1#http://59.49.41.41/live.aishang.ctlcdn.com/00000110240325_1/playlist.m3u8?CONTENTID=00000110240325_1
+
+4K台,#genre#
+4k️超高清,http://39.135.55.7:6610/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+4k超高清,https://p.ggiptv.com/v/4k.m3u8
+4k超高清,http://39.135.55.105:6610/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1
+奥林匹克4k,http://39.135.55.105:6610/PLTV/88888888/224/3221227162/index.m3u8?servicetype=1
+纯享4K,http://39.135.32.10:6610/000000001000/HD-20M-2160P-chunxiang4k/1.m3u8?IASHttpSessionId=OTT
+纯享4K,http://39.135.32.6:6610/PLTV/77777777/224/3221225726/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+纯享4K,http://39.135.55.105:6610/PLTV/88888888/224/3221226825/index.m3u8?servicetype=1
+4k超高清,http://open.live-web.timetv.cn/live03/cctv4k.m3u8
+爱上4k,http://39.134.18.66/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226352/index.m3u8
+爱上4k,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226352/1.m3u8
+欢笑剧场4k,http://111.20.33.93/PLTV/88888893/224/3221226582/index.m3u8
+欢笑剧场4k,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8
+欢笑剧场4k,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8
+C芒果4kTV,http://39.135.55.105:6610/PLTV/88888888/224/3221226887/index.m3u8?servicetype=1
+苏州4k,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+北京4kIPTV,http://39.134.134.85/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBO3%2B2%2FLci77HWE%2FMDUdCEgEA%3D%3D%3A20211105223205%2C10000100000000050000000003887500%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
+影院4k,http://zzy789.xyz/douyu1.php?id=9249162
+影院4k,http://epg.112114.xyz/douyu/9249162
+纯享4K,http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
+爱自然,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+
+密码测试_1111,#genre#
+同福客栈,http://txtest-xp2p.p2p.huya.com/src/1099531752788-1099531752788-86436268371607552-2199063629032-10057-A-0-1.xs
